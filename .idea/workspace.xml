@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" name="Default" comment="" />
+    <ignored path="nomis.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$USER_HOME$/.grails/" />
+    <file path="/fragment.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1385400746347" ignored="false" />
+    <file path="/Image.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381746362180" ignored="false" />
+    <file path="/DescriptorValue.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377802886156" ignored="false" />
+    <file path="/Decriptor.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377802296107" ignored="false" />
+    <file path="/_add.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381737693678" ignored="false" />
+    <file path="/ImageController.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382707595375" ignored="false" />
+    <file path="/index.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381741269449" ignored="false" />
+    <file path="/main.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381741297918" ignored="false" />
+    <file path="/main.css" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807184479" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/bootstrap.js" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807367533" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/bootstrap.min.js" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807367533" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/bootstrap-responsive.css" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807461905" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/bootstrap.min.css" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807461905" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/bootstrap.css" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807461905" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/bootstrap-responsive.min.css" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807461905" ignored="false" />
+    <file path="/custom-bootstrap.less" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377807940939" ignored="false" />
+    <file path="/custom.css" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381742988720" ignored="false" />
+    <file path="/Config.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1377808426989" ignored="false" />
+    <file path="/ApplicationResources.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1378654790812" ignored="false" />
+    <file path="/_header.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381743050036" ignored="false" />
+    <file path="/_footer.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381742480512" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/Grails/lib/grails_integration.jar!/org/jetbrains/plugins/grails/lang/gsp/resolve/taglib/tld/grails.tld" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381478196968" ignored="false" />
+    <file path="/UrlMappings.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381683645179" ignored="false" />
+    <file path="/a.dummy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382976859506" ignored="false" />
+    <file path="/Dummy.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381763445982" ignored="false" />
+    <file path="/_list.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381762410266" ignored="false" />
+    <file path="$PROJECT_DIR$/../../medImgSearch/grails-app/views/imgFile/showAll.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381737740788" ignored="false" />
+    <file path="/showAll.gsp" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381737728157" ignored="false" />
+    <file path="/messages.properties" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381740684168" ignored="false" />
+    <file path="/messages_pl.properties" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381740691541" ignored="false" />
+    <file path="/DescriptorTests.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1381743939239" ignored="false" />
+    <file path="/DescriptorService.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1385400024683" ignored="false" />
+    <file path="/Descriptor.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382950027936" ignored="false" />
+    <file path="$USER_HOME$/.IntelliJIdea12/config/options/osmorc.xml" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382707087219" ignored="false" />
+    <file path="/ColorSpaceTransformUtils.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382959246341" ignored="false" />
+    <file path="/ImageService.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382713600234" ignored="false" />
+    <file path="/YCbCrPixel.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1385399834967" ignored="false" />
+    <file path="/RGBPixel.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382709691400" ignored="false" />
+    <file path="/ImageUtils.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382958936546" ignored="false" />
+    <file path="/Pixel.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382709432698" ignored="false" />
+    <file path="/ImageData.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382953916721" ignored="false" />
+    <file path="/grayImgPixel.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382709643856" ignored="false" />
+    <file path="/Pixel2D.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1385393362428" ignored="false" />
+    <file path="/resources.groovy" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382957698555" ignored="false" />
+    <file path="/ColorLayoutDescriptor.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382958036401" ignored="false" />
+    <file path="/BaseDescriptor.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382950566736" ignored="false" />
+    <file path="/ColorLayoutDescriptorUtils.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1385399750448" ignored="false" />
+    <file path="/ColorLayoutDescriptorUtilsTests.java" changelist="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" time="1382957727316" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/ColorLayoutDescriptorUtils.java" line="76" class="pl.edu.pw.elka.ire.asiom.image.descritors.ColorLayoutDescriptorUtils" package="pl.edu.pw.elka.ire.asiom.image.descritors">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/DescriptorService.groovy" line="14" class="pl.edu.pw.elka.ire.asiom.DescriptorService" package="pl.edu.pw.elka.ire.asiom">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/ImageService.groovy" line="21" class="pl.edu.pw.elka.ire.asiom.ImageService" package="pl.edu.pw.elka.ire.asiom">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/ImageUtils.java" line="18" class="pl.edu.pw.elka.ire.asiom.image.ImageUtils" package="pl.edu.pw.elka.ire.asiom.image">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/ImageUtils.java" line="24" class="pl.edu.pw.elka.ire.asiom.image.ImageUtils" package="pl.edu.pw.elka.ire.asiom.image">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nomis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ColorSpaceTransformUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/operations/ColorSpaceTransformUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="26" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorLayoutDescriptorUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/ColorLayoutDescriptorUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="0" selection-start="3472" selection-end="3472" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1385399966296" expanded="true" signature="3471:3482" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pixel2D.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/Pixel2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractCallSite.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://E:/Dev/Groovy/grails-2.2.1/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.7-sources.jar!/org/codehaus/groovy/runtime/callsite/AbstractCallSite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="0" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YCbCrPixel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/YCbCrPixel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="75" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DescriptorServiceTests.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/pl/edu/pw/elka/ire/asiom/DescriptorServiceTests.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="20" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageUtils.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/ImageUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="92" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.4857143">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageData.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/ImageData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="16" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DescriptorService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/DescriptorService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/ImageService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="44" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/grayImgPixel.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/RGBPixel.java" />
+        <option value="$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/ImageService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/domain/pl/edu/pw/elka/ire/asiom/descriptor/Descriptor.groovy" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/ColorLayoutDescriptor.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/BaseDescriptor.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/DescriptorUtils.java" />
+        <option value="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
+        <option value="$PROJECT_DIR$/test/unit/pl/edu/pw/elka/ire/asiom/image/descriptors/ColorLayoutDescriptorUtilsTests.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/ImageData.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/Pixel2D.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/ColorLayoutDescriptorUtils.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/YCbCrPixel.java" />
+        <option value="$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/DescriptorService.groovy" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/operations/ColorSpaceTransformUtils.java" />
+        <option value="$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/ImageUtils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asiom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asiom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asiom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/grails-app/domain" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../medImgSearch" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mgr\projekt\asiom\lib" />
+      <recent name="D:\mgr\projekt\asiom\web-app\images\bootstrap" />
+      <recent name="D:\mgr\projekt\asiom\web-app\css\bootstrap" />
+      <recent name="D:\mgr\projekt\asiom\web-app\js" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.edu.pw.elka.ire.asiom.image.types" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.edu.pw.elka.ire.asiom" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mgr\projekt\asiom\web-app\js" />
+      <recent name="D:\mgr\projekt\asiom\grails-app\views\layouts" />
+      <recent name="D:\mgr\projekt\asiom\grails-app\views" />
+      <recent name="D:\mgr\projekt\asiom\grails-app\views\image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Grails.Grails:asiom">
+    <configuration default="false" name="testInsertDescriptor()" type="GrailsRunConfigurationType" factoryName="Grails" temporary="true">
+      <module name="asiom" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="test-app unit: pl.edu.pw.elka.ire.asiom.Descriptor.testInsertDescriptor -echoOut" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Grails:nomis" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="nomis" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Grails:asiom" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="asiom" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="true" />
+      <RunnerSettings RunnerId="GrailsMavenDebuggerRunner">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="GrailsMavenDebuggerRunner" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Grails.Grails:nomis" />
+      <item index="1" class="java.lang.String" itemvalue="Grails.Grails:asiom" />
+      <item index="2" class="java.lang.String" itemvalue="Grails.testInsertDescriptor()" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Grails.testInsertDescriptor()" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af95cb3-40e7-4b52-94c5-2bacaffd1b4b" name="Default" comment="" />
+      <created>1377798023462</created>
+      <updated>1377798023462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54344124" sideWeight="0.99285716" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.6700855" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22045454" sideWeight="0.45655876" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32367972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/unit/pl/edu/pw/elka/ire/asiom/DescriptorValueTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="263" selection-end="263" vertical-scroll-proportion="-7.3913045" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/pl/edu/pw/elka/ire/asiom/ImageServiceTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/pl/edu/pw/elka/ire/asiom/DescriptorTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="6" selection-start="168" selection-end="168" vertical-scroll-proportion="-5.173913" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="40" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/image/ImageFileTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="90" selection-end="90" vertical-scroll-proportion="0.19729207" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/pl/edu/pw/elka/ire/asiom/DescriptorServiceTests.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="20" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Dev/Groovy/grails-2.2.1/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.7-sources.jar!/org/codehaus/groovy/runtime/callsite/AbstractCallSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="0" selection-start="3083" selection-end="3083" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Dev/Groovy/grails-2.2.1/lib/org.codehaus.groovy/groovy-all/jars/groovy-all-2.0.7-sources.jar!/org/codehaus/groovy/runtime/callsite/CallSiteArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1569" selection-end="1569" vertical-scroll-proportion="0.17592593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/Pixel2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/YCbCrPixel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="75" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/operations/ColorSpaceTransformUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/types/ImageData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="16" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/DescriptorService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/descritors/ColorLayoutDescriptorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="3472" selection-end="3472" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1385399966296" expanded="true" signature="3471:3482" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/pl/edu/pw/elka/ire/asiom/ImageService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="44" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pl/edu/pw/elka/ire/asiom/image/ImageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="92" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.4857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="grailsSettings">
+    <option name="map">
+      <map>
+        <entry key="asiom">
+          <value>
+            <GrailsSettings>
+              <option name="buildConfigCrc" value="-303432040" />
+              <option name="pluginDependenciesCrc" value="-289798354" />
+              <option name="properties">
+                <map>
+                  <entry key="grails.global.plugins.dir" value="C:\Users\Joanna Rogowska\.grails\2.2.1\global-plugins" />
+                  <entry key="grails.project.plugins.dir" value="C:\Users\Joanna Rogowska\.grails\2.2.1\projects\nomis\plugins" />
+                  <entry key="grails.project.work.dir" value="C:\Users\Joanna Rogowska\.grails\2.2.1\projects\nomis" />
+                  <entry key="grails.work.dir" value="C:\Users\Joanna Rogowska\.grails\2.2.1" />
+                </map>
+              </option>
+            </GrailsSettings>
+          </value>
+        </entry>
+        <entry key="asiom-grailsPlugins">
+          <value>
+            <GrailsSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>guava-15.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>asiom</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
