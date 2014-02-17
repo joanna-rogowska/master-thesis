@@ -4,8 +4,8 @@ import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.dao.DataIntegrityViolationException
 
 import javax.imageio.ImageIO
-import javax.swing.ImageIcon
-import java.awt.Graphics2D
+import javax.swing.*
+import java.awt.*
 import java.awt.image.BufferedImage
 
 class ImageController {
@@ -19,7 +19,7 @@ class ImageController {
     ImageService imageService
 
     def index() {
-        render(view:  '/index', model: [imageList: ImageFile.listOrderById(params)])
+        render(view: '/index', model: [imageList: ImageFile.listOrderById(params)])
     }
 
     def save() {
@@ -30,7 +30,7 @@ class ImageController {
             return
         }
         ImageFile imageInstance = new ImageFile(data: f.getBytes(), name: f.getOriginalFilename())
-        imageService.processImageCalculation(imageInstance)
+        imageService.processImageCalculation(imageInstance, ImageIO.read(f.getFileItem().getInputStream()))
         imageInstance.save()
         if (imageInstance.hasErrors()) {
             flash.message = message(code: 'image.create.failed', args: [imageInstance.name])
@@ -102,7 +102,7 @@ class ImageController {
         Graphics2D g2d = bufferedImage.createGraphics()
         g2d.drawImage(new ImageIcon(data).image, 0, 0, destinationWidth, destinationHeight, null, null)
 
-        ByteArrayOutputStream baos = new ByteArrayOutputStream(maxWidth*maxHeight);
+        ByteArrayOutputStream baos = new ByteArrayOutputStream(maxWidth * maxHeight);
         byte[] resultImageAsRawBytes = null
         try {
             ImageIO.write(bufferedImage, "jpg", baos);

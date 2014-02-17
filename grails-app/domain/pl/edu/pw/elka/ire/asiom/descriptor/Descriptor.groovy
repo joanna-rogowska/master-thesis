@@ -6,6 +6,8 @@ class Descriptor {
 
     Type type
 
+    List values
+
     static hasMany = [values: DescriptorValue]
 
     static belongsTo = [image: ImageFile]
@@ -27,7 +29,8 @@ class Descriptor {
 
     enum Type {
         CLD,
-        FAKE
+        FAKE,
+        EHD
     }
 
     def getValuesAsList() {

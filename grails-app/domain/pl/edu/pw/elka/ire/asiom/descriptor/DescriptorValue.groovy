@@ -3,7 +3,8 @@ package pl.edu.pw.elka.ire.asiom.descriptor
 import org.apache.commons.lang.builder.HashCodeBuilder
 
 class DescriptorValue implements Serializable {
-    Double value
+
+    Integer value
 
     int ordinalNumber
 
@@ -19,7 +20,7 @@ class DescriptorValue implements Serializable {
         table 'DESCRIPTORS_VALUES'
         version false
         id composite: ['descriptor', 'ordinalNumber']
-        value column: 'VALUE' //TODO: set types
+        value column: 'VALUE'
         ordinalNumber column: 'ORDINAL_NUMBER'
         descriptor column: 'DESCRIPTOR_ID', index: 'DESCRIPTOR_IDX'
     }

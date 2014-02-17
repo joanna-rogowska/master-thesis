@@ -1,24 +1,44 @@
 package pl.edu.pw.elka.ire.asiom
 
-import org.springframework.beans.factory.annotation.Autowired
+import net.semanticmetadata.lire.imageanalysis.ColorLayout
+import net.semanticmetadata.lire.imageanalysis.EdgeHistogram
+import org.apache.commons.lang.ArrayUtils
 import pl.edu.pw.elka.ire.asiom.descriptor.Descriptor
 import pl.edu.pw.elka.ire.asiom.descriptor.DescriptorValue
-import pl.edu.pw.elka.ire.asiom.image.descritors.ColorLayoutDescriptorUtils
-import pl.edu.pw.elka.ire.asiom.image.types.ImageData
+
+import java.awt.image.BufferedImage
 
 class DescriptorService {
 
-    @Autowired
-    ColorLayoutDescriptorUtils colorLayoutDescriptorUtils;
+    def calculateDescriptors(BufferedImage image) {
+        return [extractCLDValues(image), extractEHDValues(image)];
+    }
 
-    Descriptor calculateDescriptors(ImageData image) {
-        colorLayoutDescriptorUtils.createTinyImage(image);
+    private Descriptor extractCLDValues(BufferedImage image) {
+        Descriptor cld = new Descriptor(type: Descriptor.Type.CLD);
 
-        Descriptor fake_descriptor = new Descriptor(type: Descriptor.Type.FAKE)
-        fake_descriptor.addToValues(new DescriptorValue(value: 0, ordinalNumber: 0))
-        fake_descriptor.addToValues(new DescriptorValue(value: 1, ordinalNumber: 1))
-        fake_descriptor.addToValues(new DescriptorValue(value: 2, ordinalNumber: 2))
-        fake_descriptor.addToValues(new DescriptorValue(value: 3, ordinalNumber: 3))
-        return fake_descriptor;
+        ColorLayout vd = new ColorLayout();
+        vd.extract(image);
+
+        int i = 0;
+        for (Integer value : ArrayUtils.addAll(ArrayUtils.addAll(Arrays.copyOf(vd.getYCoeff(), 6), Arrays.copyOf(vd.getCbCoeff(), 3)), Arrays.copyOf(vd.getCrCoeff(), 3))) {
+            cld.addToValues(new DescriptorValue(value: value, ordinalNumber: i++))
+        }
+
+        return cld;
+    }
+
+    private Descriptor extractEHDValues(BufferedImage image) {
+        Descriptor ehd = new Descriptor(type: Descriptor.Type.EHD);
+
+        EdgeHistogram vd = new EdgeHistogram();
+        vd.extract(image);
+
+        int i = 0;
+        for (Integer value : vd.getDoubleHistogram()) {
+            ehd.addToValues(new DescriptorValue(value: value, ordinalNumber: i++))
+        }
+
+        return ehd;
     }
 }

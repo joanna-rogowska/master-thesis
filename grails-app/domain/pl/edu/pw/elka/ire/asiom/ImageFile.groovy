@@ -11,7 +11,7 @@ class ImageFile {
     static hasMany = [descriptors: Descriptor];
 
     static constraints = {
-        data nullable: false, maxSize: 1024 * 1024 * 2
+        data nullable: false, maxSize: 1024 * 1024 * 5
         name nullable: false
     }
 

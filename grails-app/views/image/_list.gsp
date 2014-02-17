@@ -1,11 +1,11 @@
 <div id="imagesTable">
     <table class="table table-striped table-bordered ">
         <thead>
-            <th><g:message code="image.table.id"/></th>
-            <th><g:message code="image.table.name"/></th>
-            <th><g:message code="image.table.image"/></th>
-            <th><g:message code="image.table.descriptors"/></th>
-            <th><g:message code="image.table.actions"/></th>
+        <th><g:message code="image.table.id"/></th>
+        <th><g:message code="image.table.name"/></th>
+        <th><g:message code="image.table.image"/></th>
+        <th><g:message code="image.table.descriptors"/></th>
+        <th><g:message code="image.table.actions"/></th>
         </thead>
         <tbody>
         <g:if test='${imageList}'>
@@ -18,9 +18,9 @@
                     </td>
                     <td>
                         <ul>
-                            <li>CLD: ${it.descriptors.valuesAsList}</li>
-                            <li>EHD:</li>
-                            <li>HTD:</li>
+                            <g:each in='${it.descriptors}'>
+                                <li>${it.type}: ${it.valuesAsList}</li>
+                            </g:each>
                         </ul>
                     </td>
                     <td>
