@@ -19,7 +19,9 @@ class ImageController {
     ImageService imageService
 
     def index() {
-        render(view: '/index', model: [imageList: ImageFile.listOrderById(params)])
+        render(view: '/index', model: [imageList: flash.imageInstance != null ?
+                imageService.orderByClosestDistance(flash.imageInstance, ImageFile.findAll())
+                : ImageFile.listOrderById()])
     }
 
     def save() {
@@ -37,13 +39,14 @@ class ImageController {
         } else {
             flash.message = message(code: 'image.create.success', args: [imageInstance.name])
         }
+        flash.imageInstance = imageInstance;
         redirect(action: "index")
     }
 
     def delete() {
         def imageInstance = ImageFile.get(params.id)
         if (!imageInstance) {
-//            flash.message = message(code: 'default.not.found.message', args: [message(code: 'image.label', default: 'ImageFile'), id])
+//            flash.message = message(code: 'default.not.found.message', args: [message(code: 'image.table.name', default: 'ImageFile'), id])
             redirect(action: "index")
             return
         }

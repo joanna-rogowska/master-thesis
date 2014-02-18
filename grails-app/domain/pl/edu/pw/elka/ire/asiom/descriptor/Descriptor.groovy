@@ -29,7 +29,6 @@ class Descriptor {
 
     enum Type {
         CLD,
-        FAKE,
         EHD
     }
 
