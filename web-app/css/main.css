@@ -99,7 +99,7 @@ img {
 }
 
 .footer {
-	background: #abbf78;
+	background: #F1F1F1;
 	color: #000;
 	clear: both;
 	font-size: 0.8em;
@@ -149,7 +149,7 @@ img {
 }
 
 .nav a {
-	color: #666666;
+	color: #F1F1F1;
 	display: block;
 	padding: 0.25em 0.7em;
 	text-decoration: none;
@@ -159,11 +159,11 @@ img {
 }
 
 .nav a:active, .nav a:visited {
-	color: #666666;
+	color: #F1F1F1;
 }
 
 .nav a:focus, .nav a:hover {
-	background-color: #999999;
+	background-color: #F1F1F1;
 	color: #ffffff;
 	outline: none;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
@@ -171,7 +171,7 @@ img {
 
 .no-borderradius .nav a:focus, .no-borderradius .nav a:hover {
 	background-color: transparent;
-	color: #444444;
+	color: #F1F1F1;
 	text-decoration: underline;
 }
 
@@ -216,7 +216,7 @@ fieldset,
 
 .fieldcontain label,
 .fieldcontain .property-label {
-	color: #666666;
+	color: #F1F1F1;
 	text-align: right;
 	width: 25%;
 }

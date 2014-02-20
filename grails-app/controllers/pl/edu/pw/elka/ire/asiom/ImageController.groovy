@@ -25,6 +25,19 @@ class ImageController {
     }
 
     def save() {
+        ImageFile imageInstance = getImageInstance(request)
+        imageInstance.save()
+        if (imageInstance.hasErrors()) {
+            flash.message = message(code: 'image.create.failed', args: [imageInstance.name])
+        } else {
+            flash.message = message(code: 'image.create.success', args: [imageInstance.name])
+        }
+        flash.imageInstance = imageInstance;
+
+        render(view: '/index', model: [imageList: ImageFile.listOrderById()])
+    }
+
+    def getImageInstance = { request ->
         def f = request.getFile('fileName')
         if (f == null || f.size <= 0) {
             flash.message = message(code: 'image.create.failed.empty')
@@ -33,14 +46,15 @@ class ImageController {
         }
         ImageFile imageInstance = new ImageFile(data: f.getBytes(), name: f.getOriginalFilename())
         imageService.processImageCalculation(imageInstance, ImageIO.read(f.getFileItem().getInputStream()))
-        imageInstance.save()
-        if (imageInstance.hasErrors()) {
-            flash.message = message(code: 'image.create.failed', args: [imageInstance.name])
-        } else {
-            flash.message = message(code: 'image.create.success', args: [imageInstance.name])
-        }
-        flash.imageInstance = imageInstance;
-        redirect(action: "index")
+        return imageInstance
+    }
+
+    def searchWithImage() {
+        flash.imageInstance = getImageInstance(request);
+
+        render(view: '/index',
+                model: [imageList: imageService.orderByClosestDistance(flash.imageInstance, ImageFile.findAll()),
+                        imageInstance: getImageInstance(request)])
     }
 
     def delete() {
@@ -76,6 +90,7 @@ class ImageController {
         byte[] data;
         int maxWidth = 100
         int maxHeight = 100
+
 //        switch(image.getType()) {
 //            case ImageType.DICOM:
 //                data = dicomService.getJpegData(image.getData())

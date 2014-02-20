@@ -9,7 +9,6 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <g:render template="/image/add"/>
                         <g:render template="/image/list"/>
                     </div>
                 </div>

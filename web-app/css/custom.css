@@ -10,9 +10,9 @@ body {
 
 footer{
     text-align: center;
-    background: #888888;
+    background: #F1F1F1;
     font-size: 12px;
-    color: #e3e3e3;
+    color: #888888;
 }
 
 #footer, #footer-push {
@@ -22,13 +22,13 @@ footer{
 nav {
     text-align: center;
     color: #b3b3b3;
-    background: #888888;
+    background: #F1F1F1;
     padding-left: 5%;
 }
 
 .page-navbar {
-    text-align: left;
-    height: 100px;
+    text-align: center;
+    width: 600px;
 }
 
 #content-wrapper {
@@ -38,11 +38,58 @@ nav {
 }
 
 .image-add {
-    border: dotted thin #999999;
-    margin-top: 2px;
-    background: #EEEEEE;
+    position: relative;
+    width: 400px;
+    line-height: normal;
+    top: 0;
+    white-space: nowrap;
 }
 
 table th {
     background: #AAAAAA;
+}
+
+#fileName {
+    width: 80%;
+}
+.uploadFile-form {
+    padding-top: 13px;
+}
+
+.search-navbar {
+    display: flex;
+    white-space: nowrap;
+    margin: auto;
+}
+#home {
+    float: right;
+    vertical-align: middle;
+}
+#search {
+    float: left;
+    vertical-align: middle;
+}
+
+.image-result {
+    text-align: center;
+    width: 100px;
+    margin: 2px;
+}
+
+ol li {
+    list-style: none outside none;
+}
+
+.result-image {
+    display: inline-block;
+}
+#imagesTable {
+    background-color: #F1EFF1;
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    border: 1px solid #e6d2e9;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
 }

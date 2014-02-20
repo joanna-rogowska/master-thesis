@@ -3,6 +3,7 @@
         <title><g:layoutTitle default="ASIOM" /></title>
         <link rel="stylesheet" href="${resource(dir: 'css', file: 'bootstrap/bootstrap.min.css')}" type="text/css">
         <link rel="stylesheet" href="${resource(dir: 'css', file: 'custom.css')}" type="text/css">
+        <link rel="stylesheet" href="${resource(dir: 'css', file: 'custom.css')}" type="text/css">
         <g:layoutHead />
     </head>
     <body>
