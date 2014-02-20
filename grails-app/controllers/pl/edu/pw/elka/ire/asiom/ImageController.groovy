@@ -18,6 +18,9 @@ class ImageController {
     @Autowired
     ImageService imageService
 
+    @Autowired
+    DicomService dicomService
+
     def index() {
         render(view: '/index', model: [imageList: flash.imageInstance != null ?
                 imageService.orderByClosestDistance(flash.imageInstance, ImageFile.findAll())
