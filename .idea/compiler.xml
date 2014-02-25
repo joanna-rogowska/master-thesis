@@ -17,7 +17,91 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="dcm4che-audit" />
+        <module name="dcm4che-base64" />
+        <module name="dcm4che-code" />
+        <module name="dcm4che-core" />
+        <module name="dcm4che-core-test-dictionary" />
+        <module name="dcm4che-filecache" />
+        <module name="dcm4che-hp" />
+        <module name="dcm4che-image" />
+        <module name="dcm4che-imageio" />
+        <module name="dcm4che-imageio-rle" />
+        <module name="dcm4che-iod" />
+        <module name="dcm4che-net" />
+        <module name="dcm4che-soundex" />
+        <module name="dcm4che-tool-chess3d" />
+        <module name="dcm4che-tool-dcm2dcm" />
+        <module name="dcm4che-tool-dcm2jpg" />
+        <module name="dcm4che-tool-dcm2txt" />
+        <module name="dcm4che-tool-dcm2xml" />
+        <module name="dcm4che-tool-dcmdir" />
+        <module name="dcm4che-tool-dcmecho" />
+        <module name="dcm4che-tool-dcmgpwl" />
+        <module name="dcm4che-tool-dcmhpqr" />
+        <module name="dcm4che-tool-dcmmv" />
+        <module name="dcm4che-tool-dcmmwl" />
+        <module name="dcm4che-tool-dcmof" />
+        <module name="dcm4che-tool-dcmqr" />
+        <module name="dcm4che-tool-dcmrcv" />
+        <module name="dcm4che-tool-dcmsnd" />
+        <module name="dcm4che-tool-dcmups" />
+        <module name="dcm4che-tool-dcmwado" />
+        <module name="dcm4che-tool-fixjpegls" />
+        <module name="dcm4che-tool-jpg2dcm" />
+        <module name="dcm4che-tool-logger" />
+        <module name="dcm4che-tool-pdf2dcm" />
+        <module name="dcm4che-tool-rgb2ybr" />
+        <module name="dcm4che-tool-txt2dcmsr" />
+        <module name="dcm4che-tool-xml2dcm" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dcm4che" target="1.5" />
+      <module name="dcm4che-audit" target="1.5" />
+      <module name="dcm4che-base64" target="1.5" />
+      <module name="dcm4che-code" target="1.5" />
+      <module name="dcm4che-core" target="1.5" />
+      <module name="dcm4che-core-test-dictionary" target="1.5" />
+      <module name="dcm4che-filecache" target="1.5" />
+      <module name="dcm4che-hp" target="1.5" />
+      <module name="dcm4che-image" target="1.5" />
+      <module name="dcm4che-imageio" target="1.5" />
+      <module name="dcm4che-imageio-rle" target="1.5" />
+      <module name="dcm4che-iod" target="1.5" />
+      <module name="dcm4che-net" target="1.5" />
+      <module name="dcm4che-soundex" target="1.5" />
+      <module name="dcm4che-tool" target="1.5" />
+      <module name="dcm4che-tool-chess3d" target="1.5" />
+      <module name="dcm4che-tool-dcm2dcm" target="1.5" />
+      <module name="dcm4che-tool-dcm2jpg" target="1.5" />
+      <module name="dcm4che-tool-dcm2txt" target="1.5" />
+      <module name="dcm4che-tool-dcm2xml" target="1.5" />
+      <module name="dcm4che-tool-dcmdir" target="1.5" />
+      <module name="dcm4che-tool-dcmecho" target="1.5" />
+      <module name="dcm4che-tool-dcmgpwl" target="1.5" />
+      <module name="dcm4che-tool-dcmhpqr" target="1.5" />
+      <module name="dcm4che-tool-dcmmv" target="1.5" />
+      <module name="dcm4che-tool-dcmmwl" target="1.5" />
+      <module name="dcm4che-tool-dcmof" target="1.5" />
+      <module name="dcm4che-tool-dcmqr" target="1.5" />
+      <module name="dcm4che-tool-dcmrcv" target="1.5" />
+      <module name="dcm4che-tool-dcmsnd" target="1.5" />
+      <module name="dcm4che-tool-dcmups" target="1.5" />
+      <module name="dcm4che-tool-dcmwado" target="1.5" />
+      <module name="dcm4che-tool-fixjpegls" target="1.5" />
+      <module name="dcm4che-tool-jpg2dcm" target="1.5" />
+      <module name="dcm4che-tool-logger" target="1.5" />
+      <module name="dcm4che-tool-pdf2dcm" target="1.5" />
+      <module name="dcm4che-tool-rgb2ybr" target="1.5" />
+      <module name="dcm4che-tool-txt2dcmsr" target="1.5" />
+      <module name="dcm4che-tool-xml2dcm" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

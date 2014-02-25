@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jai_windows-i586">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jai_windows-i586.jar!/" />
+    </SOURCES>
+  </library>
+</component>

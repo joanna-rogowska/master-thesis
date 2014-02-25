@@ -10,6 +10,9 @@ class ImageService {
     @Autowired
     DescriptorService descriptorService
 
+    @Autowired
+    DicomService dicomService
+
     def processImageCalculation(ImageFile image, BufferedImage bimg) {
         descriptorService.calculateDescriptors(bimg).each { descriptor ->
             image.addToDescriptors(descriptor);

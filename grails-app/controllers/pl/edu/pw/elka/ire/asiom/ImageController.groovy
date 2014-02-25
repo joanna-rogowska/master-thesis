@@ -4,6 +4,9 @@ import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.dao.DataIntegrityViolationException
 
 import javax.imageio.ImageIO
+import javax.imageio.ImageReadParam
+import javax.imageio.ImageReader
+import javax.imageio.stream.ImageInputStream
 import javax.swing.*
 import java.awt.*
 import java.awt.image.BufferedImage
@@ -17,9 +20,6 @@ class ImageController {
 
     @Autowired
     ImageService imageService
-
-    @Autowired
-    DicomService dicomService
 
     def index() {
         render(view: '/index', model: [imageList: flash.imageInstance != null ?
@@ -48,8 +48,21 @@ class ImageController {
             return
         }
         ImageFile imageInstance = new ImageFile(data: f.getBytes(), name: f.getOriginalFilename())
-        imageService.processImageCalculation(imageInstance, ImageIO.read(f.getFileItem().getInputStream()))
+
+        imageService.processImageCalculation(imageInstance, getImageAsBufferedImage(imageInstance))
+
         return imageInstance
+    }
+
+    private BufferedImage getImageAsBufferedImage(ImageFile imageInstance) {
+        ImageIO.scanForPlugins()
+        ByteArrayInputStream bais = new ByteArrayInputStream(imageInstance.data);
+        Iterator<ImageReader> iter = ImageIO.getImageReadersByFormatName("dicom")
+        ImageReader reader = (ImageReader) iter.next()
+        ImageReadParam param = (ImageReadParam) reader.getDefaultReadParam()
+        ImageInputStream iis = ImageIO.createImageInputStream(bais);
+        reader.setInput(iis, false);
+        return reader.read(0, param) //todo: get representative image (from middle)
     }
 
     def searchWithImage() {
@@ -94,17 +107,10 @@ class ImageController {
         int maxWidth = 100
         int maxHeight = 100
 
-//        switch(image.getType()) {
-//            case ImageType.DICOM:
-//                data = dicomService.getJpegData(image.getData())
-//                break;
-//            case ImageType.JPEG:
-        data = image.data;
-//                break;
-//        }
+        BufferedImage srcImage = getImageAsBufferedImage(image)
 
-        int width = new ImageIcon(data).image.getWidth()
-        int height = new ImageIcon(data).image.getHeight()
+        int width = srcImage.getWidth()
+        int height = srcImage.getHeight()
 
         float aspectRatio = width / height
         float requiredAspectRatio = maxWidth / maxHeight
@@ -121,7 +127,7 @@ class ImageController {
 
         BufferedImage bufferedImage = new BufferedImage(destinationWidth, destinationHeight, BufferedImage.TYPE_INT_RGB)
         Graphics2D g2d = bufferedImage.createGraphics()
-        g2d.drawImage(new ImageIcon(data).image, 0, 0, destinationWidth, destinationHeight, null, null)
+        g2d.drawImage(srcImage, 0, 0, destinationWidth, destinationHeight, null, null)
 
         ByteArrayOutputStream baos = new ByteArrayOutputStream(maxWidth * maxHeight);
         byte[] resultImageAsRawBytes = null
