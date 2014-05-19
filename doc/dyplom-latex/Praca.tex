@@ -1,0 +1,51 @@
+%*******************************************************************************
+% G?ówny dokument - tutaj definiowany jest g?ówny szablon ca?ej pracy
+%*******************************************************************************
+
+%===============================================================================
+% plik stylu
+
+\input{style.tex}			% do??czanie plików stylu
+
+\begin{document}
+
+%===============================================================================
+% Front
+
+\frontmatter
+
+\input{front.tex}			% definicja strony tytu?owej
+
+%===============================================================================
+% Rozdzia?y - dla porz?dku pliki dla ka?dego z rozdzia?ów znajdujó si? w oddzielnych katalogach
+
+\mainmatter
+
+\input{Rozdzial01//Rozdzial01.tex}		% rozdzia? 1
+\input{Rozdzial02//Rozdzial02.tex}		% rozdzia? 2
+\input{Rozdzial03//Rozdzial03.tex}		% rozdzia? 3
+\input{Rozdzial04//Rozdzial04.tex}		% rozdzia? 4
+% itd...
+
+%===============================================================================
+% Dodatki
+
+\appendix
+
+\input{Dodatki//Dodatki.tex}			% dodatki do pracy: wzory, obliczenia etc.
+
+%===============================================================================
+% Literatura
+
+\backmatter
+
+\input{bibl.tex}							% bibliografia
+
+%===============================================================================
+% Koniec
+
+\input{back.tex}
+
+\end{document}
+
+%===============================================================================

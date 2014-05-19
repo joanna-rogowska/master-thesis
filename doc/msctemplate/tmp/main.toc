@@ -1,0 +1,32 @@
+\select@language {polish}
+\contentsline {chapter}{\numberline {1\relax .\kern .5em }Wst\IeC {\k e}p}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1\relax .\kern .5em }Sposoby pozyskiwania obraz\IeC {\'o}w odcisk\IeC {\'o}w}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2\relax .\kern .5em }Dotychczasowe metody identyfikacji}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1\relax .\kern .5em }Metody minucyjne}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2\relax .\kern .5em }Metody nieminucyjne}{3}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3\relax .\kern .5em }Cel Pracy}{4}{section.1.3}
+\contentsline {chapter}{\numberline {2\relax .\kern .5em }Kod odcisku}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1\relax .\kern .5em }Algorytm Koduj\IeC {\k a}cy}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1\relax .\kern .5em }Naiwny kod}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2\relax .\kern .5em }Macierz kod\IeC {\'o}w}{8}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2\relax .\kern .5em }Przyczyny zastosowa\IeC {\'n} kodu odcisku}{12}{section.2.2}
+\contentsline {chapter}{\numberline {3\relax .\kern .5em }Por\IeC {\'o}wnanie wynik\IeC {\'o}w algorytmu z komercyjnym rozwi\IeC {\k a}zaniem}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1\relax .\kern .5em }Analiza statystyczna kodu}{13}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1\relax .\kern .5em }Rezultaty test\IeC {\'o}w}{14}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2\relax .\kern .5em }Rozk\IeC {\l }ad punkt\IeC {\'o}w por\IeC {\'o}wnania}{19}{section.3.2}
+\contentsline {chapter}{\numberline {4\relax .\kern .5em }R\IeC {\'o}\IeC {\.z}nica symetryczna jako spos\IeC {\'o}b por\IeC {\'o}wnywania odcisk\IeC {\'o}w}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1\relax .\kern .5em }Analiza statystyczna kodu}{24}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1\relax .\kern .5em }Rezultaty test\IeC {\'o}w}{24}{subsection.4.1.1}
+\contentsline {chapter}{\numberline {5\relax .\kern .5em }Metoda 3D por\IeC {\'o}wnywania kod\IeC {\'o}w}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1\relax .\kern .5em }Opis metody}{27}{section.5.1}
+\contentsline {section}{\numberline {5.2\relax .\kern .5em }Wyniki}{28}{section.5.2}
+\contentsline {section}{\numberline {5.3\relax .\kern .5em }Wnioski}{32}{section.5.3}
+\contentsline {chapter}{\numberline {6\relax .\kern .5em }Ulepszenia}{33}{chapter.6}
+\contentsline {section}{\numberline {6.1\relax .\kern .5em }Wnioski}{36}{section.6.1}
+\contentsline {chapter}{\numberline {7\relax .\kern .5em }Implementacja algorytmu}{37}{chapter.7}
+\contentsline {section}{\numberline {7.1\relax .\kern .5em }Diagram klas}{38}{section.7.1}
+\contentsline {section}{\numberline {7.2\relax .\kern .5em }Spis klas}{39}{section.7.2}
+\contentsline {section}{\numberline {7.3\relax .\kern .5em }Przebieg procesu weryfikacji}{41}{section.7.3}
+\contentsline {chapter}{\numberline {8\relax .\kern .5em }Weryfikacja obiektowo-kodowa}{43}{chapter.8}
+\contentsline {section}{\numberline {8.1\relax .\kern .5em }Ocena i por\IeC {\'o}wnanie metod}{44}{section.8.1}
+\contentsline {chapter}{Bibliografia}{45}{chapter*.11}

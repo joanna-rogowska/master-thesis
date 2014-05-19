@@ -1,0 +1,18 @@
+- rozró¿nianie modalnoœci
+- poogl¹daæ wyszukiwarki
+- literatura pod k¹tem deskryptorów
+- porówywanie przywo³anie i precyzja
+- obrazy jedowarstwowe
+- porównywanie wektorów: normami?
+- granica podobieñstwa (do np. 0.7 podobne, poni¿ej ju¿ nie)
+- kombinacje deskryptorów- je¿eli jakiœ siê nie sprawdza to wybraæ najlepsze cechy z niego (np. z pozycji n-tej), a resztê zignorowaæ. Je¿eli jakiœ lepiej dzia³a to sprawdziæ na jakiej metodzie bazuje i poszukaæ podobnych (np. na podstawie transformaty cosinusowej daje du¿o lepsze wyniki, to albo poprawiæ jego dzia³anie i dokleiæ u¿yteczne dane z innych deskryptorów lub poszukaæ deksryptorów bazuj¹cych na tej samej metodzie dzia³ania i sprawdziæ ich wykorzystanie)
+
+
+
+1. Wyszukiwarki istniej¹ce.
+2. Opracowania naukowe opisuj¹ce deskryptory rozró¿niaj¹ce modalnoœci (albo wstêpnie sposobów pozyskania obrazów, tj. USG od CT od MRI itd. CT, radiogramy, mammogramy mo¿na jako jeden typ na pocz¹tku, a potem rozró¿niaæ je miêdzy sob¹).
+3. Dodanie znalezionych deskryptorów do pracy.
+4. Implementacja sprawdzania skutecznoœci (przywo³anie i precyzja)
+5. Kombinacje pomiêdzy deskryptorami -> jakieœ wykresiki podobieñstwa
+
+Co chcê zrobiæ i jak chcê zrobiæ.

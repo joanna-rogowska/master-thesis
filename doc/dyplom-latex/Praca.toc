@@ -1,0 +1,28 @@
+\select@language {polish}
+\contentsline {chapter}{\numberline {1}Wst\k ep}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cel pracy}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Cz\k e\'s\'c 1 - studia literaturowe}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Przegl\k ad istniej\k acych system\'ow CBIR}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Google Image Search}{2}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Tineye}{3}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}IRMA}{5}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Invisium?}{5}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}wyszukiwarka obraz\'ow medycznych 3}{5}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Deskryptory numeryczne obraz\'ow medycznych}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}CLEF Initiative}{5}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}MPEG-7}{6}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}wagi skladowych deskryptorow}{6}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Funkcje podobie\'nstwa}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}cosinus pomi\k edzy wektorami}{6}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}normy r\'o\.znych stopni}{6}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Sposoby analizy poprawno\'sci zwr\'oconych wynik\'ow}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}krzywe ROI?}{6}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Przywolanie}{7}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Precyzja}{7}{subsection.2.4.3}
+\contentsline {chapter}{\numberline {3}Cz\k e\'s\'c 2 - badania w\IeC {\l }asne}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Przyk\IeC {\l }adowy podrozdzia\IeC {\l }}{8}{section.3.1}
+\contentsline {chapter}{\numberline {4}Podsumowanie}{10}{chapter.4}
+\contentsline {chapter}{\numberline {A}Dodatki}{12}{appendix.A}
+\contentsline {section}{\numberline {A.1}Przyk\IeC {\l }adowa strona z dodatkami}{12}{section.A.1}
+\contentsline {chapter}{Bibliografia}{13}{appendix*.2}
+\contentsline {chapter}{Spis rysunk\'ow}{14}{appendix*.3}

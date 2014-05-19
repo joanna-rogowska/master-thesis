@@ -7,7 +7,6 @@ import javax.imageio.ImageIO
 import javax.imageio.ImageReadParam
 import javax.imageio.ImageReader
 import javax.imageio.stream.ImageInputStream
-import javax.swing.*
 import java.awt.*
 import java.awt.image.BufferedImage
 
@@ -55,7 +54,7 @@ class ImageController {
     }
 
     private BufferedImage getImageAsBufferedImage(ImageFile imageInstance) {
-        ImageIO.scanForPlugins()
+//        ImageIO.scanForPlugins()
         ByteArrayInputStream bais = new ByteArrayInputStream(imageInstance.data);
         Iterator<ImageReader> iter = ImageIO.getImageReadersByFormatName("dicom")
         ImageReader reader = (ImageReader) iter.next()
@@ -104,8 +103,8 @@ class ImageController {
 
     private byte[] resizeImage(ImageFile image) {
         byte[] data;
-        int maxWidth = 100
-        int maxHeight = 100
+        int maxWidth = 200
+        int maxHeight = 200
 
         BufferedImage srcImage = getImageAsBufferedImage(image)
 

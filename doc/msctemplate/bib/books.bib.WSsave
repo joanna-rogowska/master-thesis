@@ -1,0 +1,37 @@
+
+@book{finger_book,
+	author = {Davide Maltoni and Dario Maio and Anil K.Jain and Salil Prabhakar},
+	title = {Handbook of Fingerprint Recognition},
+	publisher = {Springer},
+	year = {USA 2005},
+}
+
+@article{article_1,
+ author               = {Chia-Hung Lin and  Jian-Liung Chen and Zwe-Lee Gaing},
+ journal              = {Hindawi Publishing Corporation Mathematical Problems in Engineering},
+ title                = {Combining Biometric Fractal Pattern and Particle Swarm Optimization-Based Classifier for Fingerprint Recognition},
+ year                 = {2010},
+ }
+ 
+ @article{article_2,
+ author               = {Marius Tico and Eero Immonen and Pauli Ramo and Pauli Kuosmanen and Jukka Saarinen},
+ journal              = {Digital Media Institute, Tampere University of Technology},
+ title                = {Fingerprint recognition using wawelet features},
+ year                 = {},
+ }
+ 
+ @article{article_3,
+ author               = {Chih-Jen Lee and Tai-Ning Yang and Chun-Jung Chen and Allen Y. Chang and Sheng-Hsuan Hsu},
+ journal              = {Department of Computer Science Chinese Culture University Taipei, Taiwan, R.O.C.},
+ title                = {Fingerprint Identification Using Local Gabor Filters},
+ year                 = {},
+ }
+ 
+ @misc{website:wiki,
+      author = {Wikimedia Foundation},
+      title = {Angielska i Polska wersja Wikipedii},
+      year = {2012},
+      url = {http://wikipedia.org/},
+ }
+ 
+% ex: set tabstop=4 shiftwidth=4 softtabstop=4 noexpandtab fileformat=unix filetype=bib spelllang=pl,en spell:

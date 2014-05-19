@@ -1,0 +1,2755 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.8)  9 SEP 2013 13:38
+entering extended mode
+**tex/main.tex
+(E:\studia\inz\DONE\tekst\msctemplate\tex/main.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(E:\Install\Programy\MiKTEX\tex\latex\mwcls\mwrep.cls
+Document Class: mwrep 2009/09/27 v0.74 A LaTeX document class (MW)
+*** Beta version. Formatting may change
+*** in future versions of this class.
+\l@nohyphenation=\language69
+(E:\Install\Programy\MiKTEX\tex\latex\mwcls\mw11.clo
+File: mw11.clo 2009/09/27 v0.74 A document class size option (MW)
+)
+\@parindent=\dimen102
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(E:\Install\Programy\MiKTEX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(E:\Install\Programy\MiKTEX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(E:\Install\Programy\MiKTEX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(E:\Install\Programy\MiKTEX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(E:\Install\Programy\MiKTEX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(E:\Install\Programy\MiKTEX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(E:\Install\Programy\MiKTEX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(E:\Install\Programy\MiKTEX\tex\latex\amscls\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(E:\Install\Programy\MiKTEX\tex\latex\psnfss\bookman.sty
+Package: bookman 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(E:\Install\Programy\MiKTEX\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+)
+(E:\Install\Programy\MiKTEX\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(E:\Install\Programy\MiKTEX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\Install\Programy\MiKTEX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks26
+)
+(E:\Install\Programy\MiKTEX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\Install\Programy\MiKTEX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(E:\Install\Programy\MiKTEX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\Install\Programy\MiKTEX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(E:\Install\Programy\MiKTEX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count101
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box28
+\rot@mess@toks=\toks27
+)
+(E:\Install\Programy\MiKTEX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(E:\Install\Programy\MiKTEX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks28
+
+(E:\Install\Programy\MiKTEX\tex\latex\geometry\geometry.cfg))
+(E:\Install\Programy\MiKTEX\tex\latex\base\inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+
+(E:\Install\Programy\MiKTEX\tex\latex\base\utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(E:\Install\Programy\MiKTEX\tex\latex\base\t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(E:\Install\Programy\MiKTEX\tex\latex\base\ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(E:\Install\Programy\MiKTEX\tex\latex\base\omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(E:\Install\Programy\MiKTEX\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(E:\Install\Programy\MiKTEX\tex\latex\base\t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(E:\Install\Programy\MiKTEX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(E:\Install\Programy\MiKTEX\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(E:\Install\Programy\MiKTEX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen123
+\Hy@linkcounter=\count105
+\Hy@pagecounter=\count106
+
+(E:\Install\Programy\MiKTEX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count107
+
+(E:\Install\Programy\MiKTEX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+\c@Hy@tempcnt=\count108
+
+(E:\Install\Programy\MiKTEX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen124
+\Fld@menulength=\count109
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count110
+\c@Item=\count111
+\c@Hfootnote=\count112
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(E:\Install\Programy\MiKTEX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count113
+\c@bookmark@seq@number=\count114
+
+(E:\Install\Programy\MiKTEX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip51
+)
+(E:\Install\Programy\MiKTEX\tex\latex\listings\listings.sty
+\lst@mode=\count115
+\lst@gtempboxa=\box29
+\lst@token=\toks31
+\lst@length=\count116
+\lst@currlwidth=\dimen127
+\lst@column=\count117
+\lst@pos=\count118
+\lst@lostspace=\dimen128
+\lst@width=\dimen129
+\lst@newlines=\count119
+\lst@lineno=\count120
+\lst@maxwidth=\dimen130
+
+(E:\Install\Programy\MiKTEX\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count121
+\lst@skipnumbers=\count122
+\lst@framebox=\box30
+)
+(E:\Install\Programy\MiKTEX\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(E:\Install\Programy\MiKTEX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(E:\Install\Programy\MiKTEX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/main.tex:65: LaTeX Error: Option clash
+ for package graphicx.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+The package graphicx has already been loaded with options:
+  []
+There has now been an attempt to load it with options
+  [pdftex]
+Adding the global options:
+  ,pdftex
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(E:\Install\Programy\MiKTEX\tex\generic\babel\babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(E:\Install\Programy\MiKTEX\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(E:\Install\Programy\MiKTEX\tex\generic\babel\polish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+
+(E:\Install\Programy\MiKTEX\tex\generic\babel\babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count123
+\U@D=\dimen131
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen132
+\pl@down=\dimen133
+\pl@right=\dimen134
+\pl@temp=\dimen135
+))
+(E:\Install\Programy\MiKTEX\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+\c@defn=\count124
+\c@conj=\count125
+\c@conjmain=\count126
+\c@exmp=\count127
+\c@thm=\count128
+\c@case=\count129
+
+(E:\studia\inz\DONE\tekst\msctemplate\tmp\main.aux
+
+LaTeX Warning: Label `tab:3D_pattern' multiply defined.
+
+
+LaTeX Warning: Label `tab:3D_sample' multiply defined.
+
+
+LaTeX Warning: Label `img:UML' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Try loading font information for T1+pbk on input line 95.
+ (E:\Install\Programy\MiKTEX\tex\latex\psnfss\t1pbk.fd
+File: t1pbk.fd 2001/06/04 font definitions for T1/pbk.
+)
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10.95> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 95.
+
+(E:\Install\Programy\MiKTEX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count130
+\scratchdimen=\dimen136
+\scratchbox=\box31
+\nofMPsegments=\count131
+\nofMParguments=\count132
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count133
+\MPscratchDim=\dimen137
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
+\everyMPtoPDFconversion=\toks33
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=663.8003pt
+* \oddsidemargin=28.85153pt
+* \evensidemargin=28.85153pt
+* \topmargin=-1.1381pt
+* \headheight=13.6pt
+* \headsep=15.6pt
+* \topskip=11.0pt
+* \footskip=27.20001pt
+* \marginparwidth=42.67912pt
+* \marginparsep=0.0pt
+* \columnsep=25.6802pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 95.
+(E:\Install\Programy\MiKTEX\tex\latex\hyperref\nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(E:\Install\Programy\MiKTEX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count136
+)
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
+\c@lstlisting=\count137
+
+(E:\studia\inz\DONE\tekst\msctemplate\tex/title.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+(E:\Install\Programy\MiKTEX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+(E:\Install\Programy\MiKTEX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <9> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 17.
+
+Overfull \hbox (143.50154pt too wide) in paragraph at lines 6--24
+ [] 
+ []
+
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <17.28> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <12> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 32.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 40--52
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 52
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<img/foto.jpg, id=10, 803.0pt x 1160.335pt>
+File: img/foto.jpg Graphic file (type jpg)
+ <use img/foto.jpg>
+Package pdftex.def Info: img/foto.jpg used on input line 59.
+(pdftex.def)             Requested size: 128.02927pt x 184.93147pt.
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10.95> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 66.
+
+Overfull \hbox (83.10414pt too wide) in paragraph at lines 56--82
+[][]
+ []
+
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <12> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <12> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 83.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <10> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 91.
+[2 <E:/studia/inz/DONE/tekst/msctemplate/img/foto.jpg>]
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 118.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10.95> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 118.
+ [3])
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 165.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <17.28> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 165.
+
+(E:\studia\inz\DONE\tekst\msctemplate\tmp\main.toc
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <10> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 2.
+)
+\tf@toc=\write3
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.174 \newpage
+               [1
+
+] (E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex
+Rozdzia\l  1.
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:15: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:15: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:16: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:16: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:17: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:17: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <8> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <6> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 21.
+[1
+
+]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:33: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:33: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:35: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:36: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:36: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:37: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:37: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:38: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:38: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <10> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 47.
+LaTeX Font Info:    Font shape `T1/pbk/bx/it' in size <10> not available
+(Font)              Font shape `T1/pbk/b/it' tried instead on input line 47.
+LaTeX Font Info:    Font shape `T1/pbk/b/it' in size <10> not available
+(Font)              Font shape `T1/pbk/db/it' tried instead on input line 47.
+[2]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:66: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_1.tex:66: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[3]) (E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex [4]
+Rozdzia\l  2.
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:18: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:18: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:19: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:19: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:20: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:20: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:21: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:21: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Font shape `T1/pbk/m/it' in size <9> not available
+(Font)              Font shape `T1/pbk/l/it' tried instead on input line 21.
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:22: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:22: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:23: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:23: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<img/fingerprint_with_crate.jpg, id=108, 303.1325pt x 301.125pt>
+File: img/fingerprint_with_crate.jpg Graphic file (type jpg)
+
+<use img/fingerprint_with_crate.jpg>
+Package pdftex.def Info: img/fingerprint_with_crate.jpg used on input line 40.
+(pdftex.def)             Requested size: 303.13176pt x 301.12425pt.
+ [5
+
+]
+<img/simple_crate_code.jpg, id=115, 301.125pt x 301.125pt>
+File: img/simple_crate_code.jpg Graphic file (type jpg)
+
+<use img/simple_crate_code.jpg>
+Package pdftex.def Info: img/simple_crate_code.jpg used on input line 51.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:65: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:66: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:66: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[6 <E:/studia/inz/DONE/tekst/msctemplate/img/fingerprint_with_crate.jpg>]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:71: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:71: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:72: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:72: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:74: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:74: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[7 <E:/studia/inz/DONE/tekst/msctemplate/img/simple_crate_code.jpg>]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:106: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:106: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:107: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:107: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:108: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:108: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<img/angle_shift.jpg, id=133, 602.25pt x 401.5pt>
+File: img/angle_shift.jpg Graphic file (type jpg)
+ <use img/angle_shift.jpg>
+Package pdftex.def Info: img/angle_shift.jpg used on input line 116.
+(pdftex.def)             Requested size: 602.24852pt x 401.49901pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:127: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:128: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:129: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:130: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:131: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:132: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:133: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:134: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:135: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:136: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:137: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Extra }, or forgott
+en $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:138: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (7.47964pt too wide) in paragraph at lines 126--140
+[][] 
+ []
+
+[8] [9 <E:/studia/inz/DONE/tekst/msctemplate/img/angle_shift.jpg>]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:177: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:177: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:178: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:178: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:179: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:179: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:180: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:180: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:185: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:185: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:186: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:186: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:187: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:187: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:188: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:188: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:189: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_2.tex:189: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[10] <img/crate_size.jpg, id=166, 1928.20375pt x 795.97375pt>
+File: img/crate_size.jpg Graphic file (type jpg)
+
+<use img/crate_size.jpg>
+Package pdftex.def Info: img/crate_size.jpg used on input line 218.
+(pdftex.def)             Requested size: 1928.19907pt x 795.97182pt.
+
+Overfull \hbox (41.03203pt too wide) in paragraph at lines 218--219
+ [] 
+ []
+
+[11 <E:/studia/inz/DONE/tekst/msctemplate/img/crate_size.jpg>])
+(E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex [12]
+Rozdzia\l  3.
+[13
+
+]
+<img/pattern_bar_statistic_analyses_code_way.jpg, id=188, 1928.20375pt x 949.54
+75pt>
+File: img/pattern_bar_statistic_analyses_code_way.jpg Graphic file (type jpg)
+ <use img/pattern_bar_statistic_analyses_code_way.jpg>
+Package pdftex.def Info: img/pattern_bar_statistic_analyses_code_way.jpg used o
+n input line 9.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 9--10
+ [] 
+ []
+
+
+<img/pattern_line_statistic_analyses_code_way.jpg, id=195, 1372.12625pt x 630.3
+55pt>
+File: img/pattern_line_statistic_analyses_code_way.jpg Graphic file (type jpg)
+ <use img/pattern_line_statistic_analyses_code_way.jpg>
+Package pdftex.def Info: img/pattern_line_statistic_analyses_code_way.jpg used 
+on input line 17.
+(pdftex.def)             Requested size: 1372.12292pt x 630.35345pt.
+ [14 <E:/studia/inz/DONE/tekst/msctemplate/img/pattern_bar_statistic_analyses_c
+ode_way.jpg>]
+<img/sample_line_statistic_analyses_code_way.jpg, id=203, 1372.12625pt x 630.35
+5pt>
+File: img/sample_line_statistic_analyses_code_way.jpg Graphic file (type jpg)
+ <use img/sample_line_statistic_analyses_code_way.jpg>
+Package pdftex.def Info: img/sample_line_statistic_analyses_code_way.jpg used o
+n input line 25.
+(pdftex.def)             Requested size: 1372.12292pt x 630.35345pt.
+
+
+LaTeX Warning: Reference `img:ob_stat_bar_pattern' on page 15 undefined on inpu
+t line 32.
+
+
+LaTeX Warning: Reference `img:ob_stat_bar_sample' on page 15 undefined on input
+ line 32.
+
+[15] [16 <E:/studia/inz/DONE/tekst/msctemplate/img/pattern_line_statistic_analy
+ses_code_way.jpg> <E:/studia/inz/DONE/tekst/msctemplate/img/sample_line_statist
+ic_analyses_code_way.jpg>]
+<img/pattern_line_statistic_analyses_ob_way.jpg, id=220, 1928.20375pt x 949.547
+5pt>
+File: img/pattern_line_statistic_analyses_ob_way.jpg Graphic file (type jpg)
+ <use img/pattern_line_statistic_analyses_ob_way.jpg>
+Package pdftex.def Info: img/pattern_line_statistic_analyses_ob_way.jpg used on
+ input line 38.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 38--39
+ [] 
+ []
+
+[17 <E:/studia/inz/DONE/tekst/msctemplate/img/pattern_line_statistic_analyses_o
+b_way.jpg>]
+<img/sample_line_statistic_analyses_ob_way.jpg, id=225, 1928.20375pt x 949.5475
+pt>
+File: img/sample_line_statistic_analyses_ob_way.jpg Graphic file (type jpg)
+ <use img/sample_line_statistic_analyses_ob_way.jpg>
+Package pdftex.def Info: img/sample_line_statistic_analyses_ob_way.jpg used on 
+input line 47.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 47--48
+ [] 
+ []
+
+[18 <E:/studia/inz/DONE/tekst/msctemplate/img/sample_line_statistic_analyses_ob
+_way.jpg>]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:59: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:59: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:60: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:60: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:61: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:61: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:62: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:62: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:63: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_4.tex:64: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[19] <img/cloud.jpg, id=239, 1928.20375pt x 949.5475pt>
+File: img/cloud.jpg Graphic file (type jpg)
+ <use img/cloud.jpg>
+Package pdftex.def Info: img/cloud.jpg used on input line 77.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 77--78
+ [] 
+ []
+
+<img/cloud_1.jpg, id=240, 1928.20375pt x 949.5475pt>
+File: img/cloud_1.jpg Graphic file (type jpg)
+ <use img/cloud_1.jpg>
+Package pdftex.def Info: img/cloud_1.jpg used on input line 85.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 85--86
+ [] 
+ []
+
+<img/cloud_2.jpg, id=241, 1928.20375pt x 685.56125pt>
+File: img/cloud_2.jpg Graphic file (type jpg)
+ <use img/cloud_2.jpg>
+Package pdftex.def Info: img/cloud_2.jpg used on input line 93.
+(pdftex.def)             Requested size: 1928.19907pt x 685.55957pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 93--94
+ [] 
+ []
+
+<img/cloud_3.jpg, id=242, 1928.20375pt x 949.5475pt>
+File: img/cloud_3.jpg Graphic file (type jpg)
+ <use img/cloud_3.jpg>
+Package pdftex.def Info: img/cloud_3.jpg used on input line 101.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 101--102
+ [] 
+ []
+
+) (E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex [20] [21 <E:/studia/i
+nz/DONE/tekst/msctemplate/img/cloud.jpg> <E:/studia/inz/DONE/tekst/msctemplate/
+img/cloud_1.jpg>] [22 <E:/studia/inz/DONE/tekst/msctemplate/img/cloud_2.jpg> <E
+:/studia/inz/DONE/tekst/msctemplate/img/cloud_3.jpg>]
+Rozdzia\l  4.
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:6: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:6: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:7: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:7: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:8: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:8: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:30: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:31: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:32: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:33: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:34: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (4.93541pt too wide) in paragraph at lines 29--36
+[][] 
+ []
+
+[23
+
+]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:48: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Extra }, or forgotte
+n $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_5.tex:49: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (3.46204pt too wide) in paragraph at lines 47--51
+[][] 
+ []
+
+[24] <img/simetric_distance_code_line.jpg, id=281, 1928.20375pt x 949.5475pt>
+File: img/simetric_distance_code_line.jpg Graphic file (type jpg)
+
+<use img/simetric_distance_code_line.jpg>
+Package pdftex.def Info: img/simetric_distance_code_line.jpg used on input line
+ 69.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 69--70
+ [] 
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 77--78
+[]\T1/pbk/l/n/10.95 Na wy-kre-sie []4.2[] Przed-sta-wiono t¡ sam¡ me-tod¦ wy-ko
+-rzy-stu-j¡c SDK
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 77--78
+\T1/pbk/l/n/10.95 Po-nie-wa» zmiana za-cho-wa« wspóª-czyn-ni-ków jest po-wta-rz
+alna dla po-dej-±cia
+ []
+
+[25 <E:/studia/inz/DONE/tekst/msctemplate/img/simetric_distance_code_line.jpg>]
+<img/simetric_distance_ob_line.jpg, id=288, 1928.20375pt x 949.5475pt>
+File: img/simetric_distance_ob_line.jpg Graphic file (type jpg)
+
+<use img/simetric_distance_ob_line.jpg>
+Package pdftex.def Info: img/simetric_distance_ob_line.jpg used on input line 8
+1.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+) (E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex [26 <E:/studia/inz/DO
+NE/tekst/msctemplate/img/simetric_distance_ob_line.jpg>]
+Rozdzia\l  5.
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:8: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:8: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:9: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:9: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:10: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:10: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:15: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:15: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:16: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:16: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[27
+
+]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:17: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:17: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:18: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_6.tex:18: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+<img/SVM_linear_code_1.jpg, id=301, 1928.20375pt x 949.5475pt>
+File: img/SVM_linear_code_1.jpg Graphic file (type jpg)
+
+<use img/SVM_linear_code_1.jpg>
+Package pdftex.def Info: img/SVM_linear_code_1.jpg used on input line 25.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 25--26
+ [] 
+ []
+
+<img/SVM_polynominal_code_1.jpg, id=303, 1928.20375pt x 949.5475pt>
+File: img/SVM_polynominal_code_1.jpg Graphic file (type jpg)
+
+<use img/SVM_polynominal_code_1.jpg>
+Package pdftex.def Info: img/SVM_polynominal_code_1.jpg used on input line 89.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 89--90
+ [] 
+ []
+
+<img/bad_st_12.jpg, id=304, 1928.20375pt x 949.5475pt>
+File: img/bad_st_12.jpg Graphic file (type jpg)
+ <use img/bad_st_12.jpg>
+Package pdftex.def Info: img/bad_st_12.jpg used on input line 97.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 97--98
+ [] 
+ []
+
+<img/3D_best_score.jpg, id=305, 1928.20375pt x 949.5475pt>
+File: img/3D_best_score.jpg Graphic file (type jpg)
+
+<use img/3D_best_score.jpg>
+Package pdftex.def Info: img/3D_best_score.jpg used on input line 105.
+(pdftex.def)             Requested size: 1928.19907pt x 949.54518pt.
+
+Overfull \hbox (79.60425pt too wide) in paragraph at lines 105--106
+ [] 
+ []
+
+[28 <E:/studia/inz/DONE/tekst/msctemplate/img/SVM_linear_code_1.jpg>] [29]
+[30 <E:/studia/inz/DONE/tekst/msctemplate/img/SVM_polynominal_code_1.jpg> <E:/s
+tudia/inz/DONE/tekst/msctemplate/img/bad_st_12.jpg>] [31 <E:/studia/inz/DONE/te
+kst/msctemplate/img/3D_best_score.jpg>])
+(E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_7.tex [32]
+Rozdzia\l  6.
+
+<img/pattern_line_statistic_better_code.jpg, id=340, 1372.12625pt x 630.355pt>
+File: img/pattern_line_statistic_better_code.jpg Graphic file (type jpg)
+
+<use img/pattern_line_statistic_better_code.jpg>
+Package pdftex.def Info: img/pattern_line_statistic_better_code.jpg used on inp
+ut line 6.
+(pdftex.def)             Requested size: 1372.12292pt x 630.35345pt.
+
+Overfull \hbox (39.23366pt too wide) in paragraph at lines 6--7
+ [] 
+ []
+
+<img/sample_line_statistic_better_code.jpg, id=343, 1372.12625pt x 630.355pt>
+File: img/sample_line_statistic_better_code.jpg Graphic file (type jpg)
+
+<use img/sample_line_statistic_better_code.jpg>
+Package pdftex.def Info: img/sample_line_statistic_better_code.jpg used on inpu
+t line 16.
+(pdftex.def)             Requested size: 1372.12292pt x 630.35345pt.
+
+Overfull \hbox (39.23366pt too wide) in paragraph at lines 16--17
+ [] 
+ []
+
+
+<img/simetric_distance_better_code_line.jpg, id=345, 1285.80376pt x 668.4975pt>
+File: img/simetric_distance_better_code_line.jpg Graphic file (type jpg)
+<use img/simetric_distance_better_code_line.jpg>
+Package pdftex.def Info: img/simetric_distance_better_code_line.jpg used on inp
+ut line 25.
+(pdftex.def)             Requested size: 1285.80063pt x 668.49586pt.
+
+Overfull \hbox (73.29466pt too wide) in paragraph at lines 25--26
+ [] 
+ []
+
+[33
+
+ <E:/studia/inz/DONE/tekst/msctemplate/img/pattern_line_statistic_better_code.j
+pg>] [34 <E:/studia/inz/DONE/tekst/msctemplate/img/sample_line_statistic_better
+_code.jpg> <E:/studia/inz/DONE/tekst/msctemplate/img/simetric_distance_better_c
+ode_line.jpg>] [35]) (E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex [3
+6]
+Rozdzia\l  7.
+[37
+
+] <img/UML_diagram_1.jpg, id=378, 636.87938pt x 450.18187pt>
+File: img/UML_diagram_1.jpg Graphic file (type jpg)
+
+<use img/UML_diagram_1.jpg>
+Package pdftex.def Info: img/UML_diagram_1.jpg used on input line 8.
+(pdftex.def)             Requested size: 636.87782pt x 450.18077pt.
+ [38 <E:/studia/inz/DONE/tekst/msctemplate/img/UML_diagram_1.jpg>] <img/UML_dia
+gram_2.jpg, id=384, 526.96875pt x 444.91219pt>
+File: img/UML_diagram_2.jpg Graphic file (type jpg)
+
+<use img/UML_diagram_2.jpg>
+Package pdftex.def Info: img/UML_diagram_2.jpg used on input line 16.
+(pdftex.def)             Requested size: 526.96745pt x 444.91109pt.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:27: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:27: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[39 <E:/studia/inz/DONE/tekst/msctemplate/img/UML_diagram_2.jpg>]
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:37: LaTeX Error: \labeli
+tem undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:39: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:39: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:53: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:62: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:62: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:73: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:87: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:87: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:92: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:92: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[40]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:97: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:97: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+(E:\Install\Programy\MiKTEX\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(E:\Install\Programy\MiKTEX\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(E:\Install\Programy\MiKTEX\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 103.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 104.
+
+(E:\Install\Programy\MiKTEX\tex\latex\psnfss\t1pag.fd
+File: t1pag.fd 2001/06/04 font definitions for T1/pag.
+)
+LaTeX Font Info:    Try loading font information for OMS+pbk on input line 104.
+
+
+(E:\Install\Programy\MiKTEX\tex\latex\psnfss\omspbk.fd
+File: omspbk.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pbk/m/it' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <9> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 111.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <9> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 111.
+LaTeX Font Info:    Font shape `OMS/pbk/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
+
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:150: LaTeX Error: \label
+item undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:152: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:152: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:153: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:153: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:158: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:158: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:159: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:159: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[41]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:164: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:164: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:165: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:165: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:166: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:166: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:177: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:177: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:178: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:178: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:179: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:179: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:180: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:180: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:181: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:181: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:186: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:186: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:187: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_3.tex:187: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_8.tex [42]
+Rozdzia\l  8.
+[43
+
+]
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_8.tex:8: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_8.tex:8: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_8.tex:9: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+E:\studia\inz\DONE\tekst\msctemplate\tex/chapter_8.tex:9: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (E:\studia\inz\DONE\tekst\msctemplate\tmp\main.bbl [44])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
+ [45
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
+
+(E:\studia\inz\DONE\tekst\msctemplate\tmp\main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 207.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
+ ) 
+Here is how much of TeX's memory you used:
+ 9951 strings out of 493921
+ 138668 string characters out of 3147687
+ 259686 words of memory out of 3000000
+ 12816 multiletter control sequences out of 15000+200000
+ 44023 words of font info for 86 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,17n,60p,4346b,1589s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/Install/Programy/MiKTEX/fonts/enc/dvips/fontname/8r.enc}<E:/Install/Progr
+amy/MiKTEX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/Install/Programy/MiKTE
+X/fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:/Install/Programy/MiKTEX/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><E:/Install/Programy/MiKTEX/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><E:/Install/Programy/MiKTEX/fonts/type1/public/amsfonts/
+cm/cmr7.pfb><E:/Install/Programy/MiKTEX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><E:/Install/Programy/MiKTEX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Inst
+all/Programy/MiKTEX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><E:/Install/Progra
+my/MiKTEX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/Install/Programy/MiKTEX/
+fonts/type1/public/amsfonts/cm/cmsy9.pfb><E:/Install/Programy/MiKTEX/fonts/type
+1/urw/avantgar/uagk8a.pfb><E:/Install/Programy/MiKTEX/fonts/type1/urw/bookman/u
+bkd8a.pfb><E:/Install/Programy/MiKTEX/fonts/type1/urw/bookman/ubkdi8a.pfb><E:/I
+nstall/Programy/MiKTEX/fonts/type1/urw/bookman/ubkl8a.pfb><E:/Install/Programy/
+MiKTEX/fonts/type1/urw/bookman/ubkli8a.pfb>
+Output written on E:/studia/inz/DONE/tekst/msctemplate/tmp/main.pdf (49 pages, 
+3421262 bytes).
+PDF statistics:
+ 573 PDF objects out of 1000 (max. 8388607)
+ 209 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+

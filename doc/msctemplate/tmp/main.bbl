@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:wiki}
+Wikimedia Foundation.
+\newblock Angielska i polska wersja wikipedii, 2012.
+
+\bibitem{article_3}
+Chih-Jen Lee, Tai-Ning Yang, Chun-Jung Chen, Allen~Y. Chang, Sheng-Hsuan Hsu.
+\newblock Fingerprint identification using local gabor filters.
+\newblock {\em Department of Computer Science Chinese Culture University
+  Taipei, Taiwan, R.O.C.}
+
+\bibitem{article_1}
+Chia-Hung Lin, Jian-Liung Chen, Zwe-Lee Gaing.
+\newblock Combining biometric fractal pattern and particle swarm
+  optimization-based classifier for fingerprint recognition.
+\newblock {\em Hindawi Publishing Corporation Mathematical Problems in
+  Engineering}, 2010.
+
+\bibitem{finger_book}
+Davide Maltoni, Dario Maio, Anil K.Jain, Salil Prabhakar.
+\newblock {\em Handbook of Fingerprint Recognition}.
+\newblock Springer, USA 2005.
+
+\bibitem{article_2}
+Marius Tico, Eero Immonen, Pauli Ramo, Pauli Kuosmanen, Jukka Saarinen.
+\newblock Fingerprint recognition using wawelet features.
+\newblock {\em Digital Media Institute, Tampere University of Technology}.
+
+\end{thebibliography}
